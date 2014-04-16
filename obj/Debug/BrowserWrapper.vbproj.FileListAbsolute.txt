@@ -6,3 +6,11 @@ E:\TFServer2013\ischoolteam\ischool_EMBA\BrowserWrapper\obj\Debug\BrowserWrapper
 E:\TFServer2013\ischoolteam\ischool_EMBA\BrowserWrapper\obj\Debug\BrowserWrapper.dll
 E:\TFServer2013\ischoolteam\ischool_EMBA\BrowserWrapper\obj\Debug\BrowserWrapper.xml
 E:\TFServer2013\ischoolteam\ischool_EMBA\BrowserWrapper\obj\Debug\BrowserWrapper.pdb
+E:\github\NTU_EMBA\BrowserWrapper\bin\Debug\BrowserWrapper.dll
+E:\github\NTU_EMBA\BrowserWrapper\bin\Debug\BrowserWrapper.pdb
+E:\github\NTU_EMBA\BrowserWrapper\bin\Debug\BrowserWrapper.xml
+E:\github\NTU_EMBA\BrowserWrapper\obj\Debug\BrowserWrapper.Resources.resources
+E:\github\NTU_EMBA\BrowserWrapper\obj\Debug\BrowserWrapper.vbproj.GenerateResource.Cache
+E:\github\NTU_EMBA\BrowserWrapper\obj\Debug\BrowserWrapper.dll
+E:\github\NTU_EMBA\BrowserWrapper\obj\Debug\BrowserWrapper.xml
+E:\github\NTU_EMBA\BrowserWrapper\obj\Debug\BrowserWrapper.pdb
